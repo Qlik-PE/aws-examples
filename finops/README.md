@@ -50,10 +50,6 @@ M-1 and M-2 are the 2nd and 3rd most recent months in the current selection (var
 <details>
 <summary>Sheet screenshots</summary>
 
-**About**
-
-![About sheet](images/sheet-about.png)
-
 **Billing Overview**
 
 ![Billing Overview sheet](images/sheet-billing-overview.png)
@@ -78,7 +74,7 @@ M-1 and M-2 are the 2nd and 3rd most recent months in the current selection (var
 
 ![5. AI & ML Spend sheet](images/sheet-ai-ml-spend.png)
 
-Values are blurred.
+Values and dimension labels are blurred.
 
 </details>
 
